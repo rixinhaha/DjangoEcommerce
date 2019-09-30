@@ -1,1 +1,1 @@
-"DjangoEcommerce" 
+Django Ecommerce
